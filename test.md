@@ -1,1 +1,1 @@
-# Page Spéciale Kerboul (test)
+# Page Spéciale Kerboul (test) - Version 2 pour voir si l'autoversion fonctionne
