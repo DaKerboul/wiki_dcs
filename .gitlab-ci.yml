@@ -17,10 +17,11 @@
 # https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Getting-Started.gitlab-ci.yml
 
 stages:          # List of stages for jobs, and their order of execution
-  - build
+  - publish
 
 build-job:       # This job runs in the build stage, which runs first.
-  stage: build
+  stage: publish
   script:
     - echo "Compiling the code..."
+    - ssh kerboul@100.89.15.28 '/scripts/update_wiki_rfk.sh'
     - echo "Compile complete."
