@@ -4,13 +4,12 @@ stages:
 build-job:
   stage: publish
   before_script:
-  - echo "$SSH_PRIVATE_KEY" > ~/ssh_key
-  - chmod 600 ~/ssh_key
-  - echo "SSH validé, prêt à connecter au serveur web."
+    - echo "$SSH_PRIVATE_KEY" > ~/ssh_key
+    - chmod 600 ~/ssh_key
+    - echo "SSH validé, prêt à se connecter au serveur web."
   script:
     - echo "Lancement du rendu du site..."
     - ssh -i ~/ssh_key kerboul@100.89.15.28 '/scripts/update_wiki_rfk.sh'
     - echo "Site mis à jour."
-  when:
-    branch:
-      - main
+  only:
+    - main
