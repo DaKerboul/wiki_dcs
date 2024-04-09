@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Débuter sur DCS",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Voici quelques guides pour commencer votre aventure sur DCS World."
   }
 }

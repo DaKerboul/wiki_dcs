@@ -2,46 +2,26 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Wiki DCS Francophone
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Dernière MàJ : 9/04/2024
 
-## Getting Started
+## Bienvenue !
 
-Get started by **creating a new site**.
+Bienvenue sur le **Wiki DCS Francophone**, généreusement alimenté par le contenu des dépôts de la **Réserve Fédérale du Kerboulistan** *(Kerboul)*.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Vous retrouverez ici des ressources utiles telles que :
+- des Mods (Dont certains n'avaient plus d'hébergeur !)
+- des Missions
+- des Guides
+- des Documents et ressources utiles
 
-### What you'll need
+Libre à vous de naviguer à travers ce site à la recherche de l'information qui vous intéresse.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Vous souhaitez contribuer ?
 
-## Generate a new site
+Si vous souhaitez apporter votre pierre à l'édifice, il vous est tout à fait possible de le faire ! Il vous suffit de vous inscrire sur le GitLab du Kerboulistan et de suivre les instructions sur le dépôt "Guide de la Réserve Fédérale du Kerboulistan" : 
+[GitLab du Kerboulistan](https://gitlab.kerboul.me)
+[Guide de la Réserve Fédérale du Kerboulistan](https://gitlab.kerboul.me/kerboul_projets/dcs/RFK/guide)
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Bonne lecture !
