@@ -3,9 +3,9 @@
 - **Taille**: Très Grande Taille (+150 pilotes)
 - **Type**: Escadron Fermé avec Inscriptions
 - **Fondateur**: Doug & Ezor (Lead)
-- **Contact Principal**: Forum ([http://www.3rd-wing.net](www.3rd-wing.net))
+- **Contact Principal**: Forum ([http://www.3rd-wing.net](http://www.3rd-wing.net))
 - **Recrutement**: Oui - Ouvert
-- **Lien Principal**: [http://www.3rd-wing.net](www.3rd-wing.net)
+- **Lien Principal**: [http://www.3rd-wing.net](http://www.3rd-wing.net)
 - **Période Historique**: Début Moderne (2000s), Gulf War (1990s), Post Moderne (2010s et +)
 - **Liste détaillée des Modules**: A-10C, AV-8B, Combined Arms, F-14, F-15E, F-16C, F/A-18C, M2000-C
 - **Fréquence des évènements**: Très fréquent (+ d'1 par semaine)
