@@ -1,6 +1,6 @@
 # VEAF
 
-- **Taille**: Très Grande Taille (<150 pilotes)
+- **Taille**: Très Grande Taille (+150 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Magic
 - **Contact Principal**: Sur notre Discord: Tipiak, Ti'Rco, The Reaper, Jed

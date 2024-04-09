@@ -1,6 +1,6 @@
 # NOeZ
 
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: les Fondateur de la NOeZ (Lead)
 - **Contact Principal**: [VFA-87] Tiger / [VF-142 NOeZ] Igor.O / [157th FS] Justice / [204th TFS] Phenex / [RC 2/30] Fury / [391St ftr]Yirro

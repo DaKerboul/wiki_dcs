@@ -1,6 +1,6 @@
 # PLAAF | People's Liberation Army Air Force
 
-- **Taille**: Grande Taille (<50 pilotes)
+- **Taille**: Grande Taille (+50 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: FanBoy
 - **Contact Principal**: FanBoy

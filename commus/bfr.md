@@ -1,6 +1,6 @@
 # Bullseye Francophone (BFR)
 
-- **Taille**: Hubs de la Communauté (>300 Membres)
+- **Taille**: Hubs de la Communauté (+300 Membres)
 - **Type**: Communauté sans but d'escadron interne
 - **Fondateur**: Tripack, Acta, Sakia, Stan Hursiak, OCageO, Dup (Lead)
 - **Contact Principal**: Dup (id: mr_dup), OCageO (id: 0Cage0) via Discord

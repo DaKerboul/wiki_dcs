@@ -1,6 +1,6 @@
 # Sky Haven
 
-- **Taille**: Hubs de la Communauté (>300 Membres)
+- **Taille**: Hubs de la Communauté (+300 Membres)
 - **Type**: Communauté sans but d'escadron interne
 - **Fondateur**: Asta
 - **Contact Principal**: asta (Discord : astazou)

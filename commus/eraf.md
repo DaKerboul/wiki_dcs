@@ -1,6 +1,6 @@
 # Escadron de Reconnaissance et d'Attaque Français (ERAF)
 
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Squeegee
 - **Contact Principal**: FanBoy (Discord : fanboy9983)

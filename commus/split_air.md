@@ -1,7 +1,7 @@
 # Split Air
 
 - **Nom du Groupe**: Split Air
-- **Taille**: Hubs de la Communauté (>300 Membres)
+- **Taille**: Hubs de la Communauté (+300 Membres)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Tom
 - **Contact Principal**: tom83400 (discord)

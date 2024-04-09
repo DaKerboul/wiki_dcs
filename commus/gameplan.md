@@ -1,7 +1,7 @@
 # GamePlan
 
 - **Nom du Groupe**: GamePlan
-- **Taille**: Grande Taille (<50 pilotes)
+- **Taille**: Grande Taille (+50 pilotes)
 - **Type**: Serveur Événementiel Seulement
 - **Fondateur**: Fenrir
 - **Contact Principal**: Fenrir (discord : fenrir50)

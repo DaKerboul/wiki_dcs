@@ -1,6 +1,6 @@
 # Leading Edge (LD_E)
 
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: LaCrepe_
 - **Contact Principal**: LaCrepe_, zozo_007

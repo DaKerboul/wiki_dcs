@@ -1,7 +1,7 @@
 # 4th VEAW
 
 - **Nom du Groupe**: 4th VEAW
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Fermé avec Inscriptions
 - **Fondateur**: Voodoo / Noiser
 - **Contact Principal**: Voodoo / Noiser

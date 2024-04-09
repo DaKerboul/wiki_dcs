@@ -1,7 +1,7 @@
 # RELAX
 
 - **Nom du Groupe**: RELAX
-- **Taille**: Grande Taille (<50 pilotes)
+- **Taille**: Grande Taille (+50 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Cino
 - **Contact Principal**: Cino (discord : cino_relax)

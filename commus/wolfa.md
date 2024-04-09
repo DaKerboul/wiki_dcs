@@ -1,6 +1,6 @@
 # Wolfa - Virtual Pilots Corporation
 
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Fermé avec Inscriptions
 - **Fondateur**: CrashTest (Lead)
 - **Contact Principal**: Crashtest

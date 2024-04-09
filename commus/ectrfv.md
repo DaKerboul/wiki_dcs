@@ -1,6 +1,6 @@
 # 13° Escadre de Chasse et de Transport RFV
 
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Il s'agit de TangoLima, créateur et gérant de l'Escadre
 - **Contact Principal**: Nous disposons de 03 admins principalement qui sont: TangoLima, Thunder et Blade

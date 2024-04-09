@@ -1,6 +1,6 @@
 # Kerboulistan (Opés de Kerboul)
 
-- **Taille**: Hubs de la Communauté (>300 Membres)
+- **Taille**: Hubs de la Communauté (+300 Membres)
 - **Type**: Communauté sans but d'escadron interne
 - **Fondateur**: Kerboul (Lead)
 - **Contact Principal**: Kerboul

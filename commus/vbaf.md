@@ -1,7 +1,7 @@
 # [VBAF] Virtual Belgian Air Force
 
 - **Nom du Groupe**: Virtual Belgian Air Force
-- **Taille**: Grande Taille (<50 pilotes)
+- **Taille**: Grande Taille (+50 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Reaper avec le Callsign supplémentaire "Rizzler"
 - **Contact Principal**: Reaper, trouvable sur Discord en ajoutant @rizzlervbaf

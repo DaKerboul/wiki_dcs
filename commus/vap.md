@@ -1,7 +1,7 @@
 # Aerobatics Prestige (VAP)
 
 - **Nom du Groupe**: Aerobatics Prestige (VAP)
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Pludimix
 - **Contact Principal**: pludimix (Discord)

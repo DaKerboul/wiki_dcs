@@ -1,7 +1,7 @@
 # 1er ROC
 
 - **Nom du Groupe**: 1er ROC
-- **Taille**: Moyenne Taille (<30 pilotes)
+- **Taille**: Moyenne Taille (+30 pilotes)
 - **Type**: Escadron Semi-Ouvert (partie publique + partie interne)
 - **Fondateur**: Gen J. Seluj
 - **Contact Principal**: Nomad, Dread, Seluj
@@ -27,4 +27,4 @@
 - **Objectif du Groupe**: Leur objectif est de détecter, identifier, intervenir, traiter, soutenir et fortifier. Ils offrent une variété d'activités pour une communauté ouverte et accueillante.
 - **Conditions d'Entrée**: Ouvert à tous les niveaux d'expérience, du novice à l'expert, le 1er ROC accueille chaleureusement tous ceux qui souhaitent rejoindre leur communauté.
 - **Recherché par la Commu**: Tous les Modules Avions, Tous les Modules Hélicoptères
-- **Liens Annexes**: [Site Web](www.1roc.fr)
+- **Liens Annexes**: [Site Web](http://www.1roc.fr)

@@ -1,6 +1,6 @@
 # 3rd WING (3rd)
 
-- **Taille**: Très Grande Taille (<150 pilotes)
+- **Taille**: Très Grande Taille (+150 pilotes)
 - **Type**: Escadron Fermé avec Inscriptions
 - **Fondateur**: Doug & Ezor (Lead)
 - **Contact Principal**: Forum ([www.3rd-wing.net](www.3rd-wing.net))

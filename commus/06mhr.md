@@ -1,6 +1,6 @@
 # 06th MHR (Multirole Helicopter Regiment)
 
-- **Taille**: Grande Taille (<50 pilotes)
+- **Taille**: Grande Taille (+50 pilotes)
 - **Type**: Escadron Fermé avec Inscriptions
 - **Fondateur**: Balerion/Kiwi
 - **Contact Principal**: Balerion sur le site Discord de l'escadrille

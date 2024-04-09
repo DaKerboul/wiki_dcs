@@ -1,6 +1,6 @@
 # Communauté COUTEAU ALPHA
 
-- **Taille**: Hubs de la Communauté (>300 Membres)
+- **Taille**: Hubs de la Communauté (+300 Membres)
 - **Type**: Communauté sans but d'escadron interne
 - **Fondateur**: LeBibs
 - **Contact Principal**: xMinikut
