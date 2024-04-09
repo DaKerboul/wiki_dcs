@@ -11,3 +11,6 @@ build-job:
     - echo "Lancement du rendu du site..."
     - ssh -i ~/ssh_key kerboul@100.89.15.28 '/scripts/update_wiki_rfk.sh'
     - echo "Site mis à jour."
+  when:
+    branch:
+      - main
