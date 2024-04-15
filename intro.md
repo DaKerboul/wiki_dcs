@@ -25,5 +25,3 @@ Si vous souhaitez apporter votre pierre à l'édifice, il vous est tout à fait 
 [GitLab du Kerboulistan](https://gitlab.kerboul.me)
 
 [Guide de la Réserve Fédérale du Kerboulistan](https://gitlab.kerboul.me/kerboul_projets/dcs/RFK/guide)
-
-Ratio + Bozo
