@@ -2,7 +2,7 @@
 
 | **Nom du Groupe** | 2nd French Fighter Squadron (2nd-FFS) |
 |-------------------|--------------------------------------|
-| **Taille** | Moyenne Taille (<30 pilotes) |
+| **Taille** | Moyenne Taille (30 pilotes) |
 | **Type** | Escadron Fermé avec Inscriptions |
 | **Fondateur** | Robin/Rikko |
 | **Contact Principal** | Robin/Rikko |
